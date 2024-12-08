@@ -6,13 +6,12 @@
 #include "GameFramework/Actor.h"
 #include "Gun.generated.h"
 
-
 UCLASS()
 class SIMPLESHOOTER_API AGun : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	AGun();
 
@@ -22,22 +21,28 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 private:
 	UPROPERTY(VisibleAnywhere)
-	USceneComponent* Root;
+	USceneComponent *Root;
 
 	UPROPERTY(VisibleAnywhere)
-	USkeletalMeshComponent* Mesh;
+	USkeletalMeshComponent *Mesh;
 
 	UPROPERTY(EditAnywhere)
-	UParticleSystem* MuzzleFlash;
+	UParticleSystem *MuzzleFlash;
 
 	UPROPERTY(EditAnywhere)
-	UParticleSystem* ImpactEffect;
+	USoundBase *MuzzleSound;
+
+	UPROPERTY(EditAnywhere)
+	UParticleSystem *ImpactEffect;
+
+	UPROPERTY(EditAnywhere)
+	USoundBase *ImpactSound;
 
 	UPROPERTY(EditAnywhere)
 	float MaxRange = 1000;
@@ -45,4 +50,7 @@ private:
 	UPROPERTY(EditAnywhere)
 	float Damage = 10;
 
+	bool GunTrace(FHitResult &Hit, FVector &ShotDirection);
+
+	AController *GetOwnerController() const;
 };
