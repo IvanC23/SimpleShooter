@@ -21,7 +21,13 @@
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
             "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
-            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h"
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\source\\simpleshooter\\simpleshootergamemodebase.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\simpleshootergamemodebase.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

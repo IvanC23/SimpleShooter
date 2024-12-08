@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\source\\simpleshooter\\killemallgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\x64\\simpleshootereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\source\\simpleshooter\\killemallgamemode.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\source\\simpleshooter\\simpleshootergamemodebase.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\simpleshootergamemodebase.generated.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\killemallgamemode.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\source\\simpleshooter\\shooteraicontroller.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\aicontroller.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\aitypes.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\navigationsystem\\public\\navigationsystemtypes.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\ai\\navigation\\navagentselector.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\navagentselector.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aitypes.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\perception\\aiperceptionlistenerinterface.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aiperceptionlistenerinterface.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\aimodule\\classes\\genericteamagentinterface.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\genericteamagentinterface.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\source\\runtime\\engine\\public\\visuallogger\\visualloggerdebugsnapshotinterface.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\visualloggerdebugsnapshotinterface.generated.h",
+            "c:\\unreal\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\aimodule\\uht\\aicontroller.generated.h",
+            "c:\\users\\crusc\\documents\\github\\simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\shooteraicontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
